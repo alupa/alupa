@@ -59,17 +59,14 @@ Soy un profesional especializado en automatización de pruebas de software con e
 - Mejora del rendimiento en un 40%
 
 ## 🎓 Certificaciones
-- ISTQB Certified Tester - Foundation Level
-- ISTQB Certified Tester - Advanced Level Test Automation Engineer
 - Scrum Foundation Professional Certificate
 
 ## 📫 Contacto
 
 ¡Estoy abierto a colaboraciones y nuevas oportunidades! No dudes en contactarme a través de:
 
-- 📧 Email: [email@example.com](mailto:email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
-- 🐱 GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 💼 LinkedIn: [linkedin.com/in/alvaro-alex-lupa-huanca](https://www.linkedin.com/in/alvaro-alex-lupa-huanca)
+- 🐱 GitHub: [github.com/alupa](https://github.com/alupa)
 
 ## 💡 Filosofía de Pruebas
 
